@@ -1,1 +1,8 @@
 xyz
+
+local added content 123
+local added content again
+
+remote added content 098
+
+remote added too:wq
